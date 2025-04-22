@@ -4,7 +4,7 @@
 
 Este proyecto es un muestra práctica que acompaña a una publicación sobre validaciones personalizadas en Spring Boot.  
 Puedes leer el artículo completo aquí:  
-👉 [Validaciones personalizadas en Spring boot](https://www.linkedin.com/feed/update/urn:li:activity:7317889217026494464/)
+👉 [Validaciones personalizadas en Spring boot](https://www.linkedin.com/feed/update/urn:li:activity:7320473490090827776/)
 
 Este proyecto es un ejemplo práctico de cómo crear una **anotación personalizada** en Java utilizando Spring Boot para validar documentos de identidad españoles: **DNI y NIE**.
 
